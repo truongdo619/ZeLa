@@ -1,0 +1,1 @@
+python src/generate_translated_ver2_decoupled_form_batch.py --batch_size 32 --google_translated
